@@ -1,48 +1,51 @@
-# CyberGuardian Content Moderation
+Here's an improved and more engaging version of your text:  
 
-A React application that uses AI to analyze text for toxicity, hate speech, misinformation, and potential cyber threats.
+---
 
-## Features
+# CyberGuardian: AI-Powered Content Moderation
 
-- Real-time content analysis using OpenAI API
-- Toxicity scoring from 0-10
-- Content flagging for potentially harmful content
-- Recommendation system for content moderation
+A cutting-edge React application that leverages AI to analyze text for **toxicity, hate speech, misinformation, and cyber threats**—ensuring a safer online environment.  
 
-## Installation
+## 🚀 Key Features
 
-1. Clone the repository:
-```
+✅ Real-time AI-powered content analysis
+✅ Toxicity scoring (0-10) for better insight
+✅ Automated flagging of harmful content
+✅ Smart recommendations for effective moderation
+
+## 🔧 **Installation Guide**  
+
+1️⃣ **Clone the repository:**  
+```sh
 git clone https://github.com/yourusername/cyberguardian.git
 cd cyberguardian
 ```
 
-2. Install dependencies:
-```
+2️⃣ **Install dependencies:**  
+```sh
 npm install
 ```
 
-3. Create a `.env` file with your OpenAI API key:
-```
+3️⃣Set up environment variables:**  
+Create a `.env` file and add your OpenAI API key:  
+```sh
 PORT=3001
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-## Running the Application
+## ▶️ **Run the Application**  
 
-To run both the frontend and backend concurrently:
-```
+Start the frontend and backend together:  
+```sh
 npm run dev
 ```
 
-The application will be available at:
-- Frontend: http://localhost:3000
-- Backend: http://localhost:3001
+🌐 Access the app: 
+- Frontend: [http://localhost:3000](http://localhost:3000)  
+- Backend: [http://localhost:3001](http://localhost:3001)  
 
-## Technologies Used
+## 🛠 Tech Stack 
 
-- React
-- TypeScript
-- Express
-- OpenAI API
-- CSS 
+🔹 React | 🔹 TypeScript | 🔹 Express | 🔹 OpenAI API | 🔹 CSS
+
+---
